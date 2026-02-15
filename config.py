@@ -2,7 +2,7 @@
 # ⚙️ Конфигурационные параметры бота
 
 # Токен бота
-BOT_TOKEN = "8452242898:AAHO2VVilzAOcICC-CiVTPAAmP18Na-19fg"
+BOT_TOKEN = "8310201354:AAH_MIyv9q_YRpPbCoAbkS39oCb8UGRyzNg"
 
 # Канал для публикации сообщений
 CHANNEL_ID = "@anonalmet"
@@ -27,4 +27,5 @@ PREMIUM_EMOJIS = [
 STANDARD_EMOJI = "📨"
 
 # Максимальная длина сообщения
+
 MAX_MESSAGE_LENGTH = 4096   
